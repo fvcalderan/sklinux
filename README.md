@@ -96,7 +96,7 @@ From now on, if you close and open your terminal, you should `chroot` back into 
 
 Run `ip a` and look for your main network adapter (e.g `eth0` or `enp0s3`). Notice that `lo` is irrelevant, since it's just a loopback. Consider `<NAME>` to be the name of your adapter.
 
-If `<NAME>` isn't `enp0s3` run: `rm /etc/sysconfig/ifconfig.enp0s3`. Otherwise, it's not necessary.
+If `<NAME>` isn't `enp0s3` run `rm /etc/sysconfig/ifconfig.enp0s3`. Otherwise, it's not necessary.
 
 Let's set a static IP address for Sklinux. You must know your gateway and broadcast. Generally, your gateway will be something like `192.168.X.1` and your broadcast will be `192.168.X.255`. The `X` number is very relevant, because it's needed for the static IP address. You can get you broadcast by looking at `brd` in `ip a` output, and your gateway by running `ip r`. It's the chain of numbers right after *default via*.
 
