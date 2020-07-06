@@ -2,6 +2,8 @@
 
 Independent GNU/Linux distribution made following the [Linux From Scratch](http://www.linuxfromscratch.org/lfs/view/stable/) 9.1 book.
 
+![image](https://user-images.githubusercontent.com/24211835/86545683-c7bd4380-bf06-11ea-90ad-403c70afc777.png)
+
 ## Installation
 
 ### Important stuff
