@@ -164,7 +164,7 @@ Sklinux was pre-configured taking into consideration that your locale is `pt_BR`
 * `/etc/sysconfig/console`
 * `/etc/profile`
 
-I suggest reading [this page](http://www.linuxfromscratch.org/lfs/view/stable/chapter07/usage.html) and [this page](http://www.linuxfromscratch.org/lfs/view/stable/chapter07/profile.html), if those need to be changed.
+I suggest reading [this page](https://web.archive.org/web/20200412113615/http://www.linuxfromscratch.org:80/lfs/view/stable/chapter07/usage.html) and [this page](https://web.archive.org/web/20200412113600/http://www.linuxfromscratch.org:80/lfs/view/stable/chapter07/profile.html), if those need to be changed.
 
 ### Booting into Sklinux
 
