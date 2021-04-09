@@ -30,11 +30,7 @@ So, with your favorite linux live image booted and your terminal opened, let's b
 
 ### Sklinux tarball
 
-Start by downloading Sklinux tarball. This can be done through a web browser or with [gdown](https://pypi.org/project/gdown/) (which can be installed with pip). There are currently two versions:
-
-[Sklinux Minimal](https://drive.google.com/uc?id=1zbmglmzHMjd0Kx51tWIjpAUvYQCgLkkx) (261MB): just the basic system, without any additional tool.
-
-[Sklinux Web Ready](https://drive.google.com/uc?id=1RV9YAcJlDI7EgEY3oC-CGNaAU7sdKwEK) (343MB): CA, wget, cURL, git and Links Web Browser pre-installed.
+Start by downloading [Sklinux Tarball](https://drive.google.com/uc?id=1RV9YAcJlDI7EgEY3oC-CGNaAU7sdKwEK) (343MB). This can be done through a web browser or with [gdown](https://pypi.org/project/gdown/) (which can be installed with pip). The tarball includes a basic system with CA, wget, cURL, git and the Links Web Browser pre-installed.
 
 From now on, it's recommended to run all the commands with root access (permanent or temporary with `sudo` or `doas`), otherwise some of them might not work properly, if at all.
 
